@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design"
+  short_description: "按项目约束设计和实现 UI，结合自有规范与内置 Jakub 领域参考"
+  default_prompt: "使用 $ui-design 根据当前项目的设计系统完成这个界面的设计、实现或审查，并验证相关状态。"
